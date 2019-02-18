@@ -17,111 +17,115 @@
 }
 
 .udi-academics::before {
-    content:"\E693";
+    content: "\E693";
 }
 
 .udi-activity::before {
-    content:"\E902";
+    content: "\E902";
 }
 
 .udi-angle-down::before {
-    content:"\F107";
+    content: "\F107";
 }
 
 .udi-bell-line::before{
-    content:"\E91F";
+    content: "\E91F";
 }
 
 .udi-caret-down::before {
-    content:"\F0D7";
+    content: "\F0D7";
 }
 
 .udi-cart-line::before {
-    content:"\E91E";
+    content: "\E91E";
 }
 
 .udi-check::before {
-    content:"\F00C";
+    content: "\F00C";
 }
 
 .udi-icon-xmark::before {
-    content:"\E730";
+    content: "\E730";
 }
 
 .udi-closed-caption::before {
-    content:"\E78A";
+    content: "\E78A";
 }
 
 .udi-comment::before {
-    content:"\F075";
+    content: "\F075";
 }
 
 .udi-explore::before {
-    content:"\E90F";
+    content: "\E90F";
 }
 
 .udi-file-text-o::before {
-    content:"\F0F6";
+    content: "\F0F6";
 }
 
 .udi-flag::before {
-    content:"\F024";
+    content: "\F024";
 }
 
 .udi-gift::before {
-    content:"\F06B";
+    content: "\F06B";
 }
 
 .udi-globe::before {
-    content:"\F0AC";
+    content: "\F0AC";
 }
 
 .udi-heart::before {
-    content:"\F007";
+    content: "\F007";
 }
 
 .udi-heart-o::before {
-    content:"\F08A";
+    content: "\F08A";
 }
 
 .udi-icon-check::before {
-    content:"\E606";
+    content: "\E606";
 }
 
 .udi-share::before {
-    content:"\F064";
+    content: "\F064";
 }
 
 .udi-menu::before {
-    content:"\E73B";
+    content: "\E73B";
 }
 
 .udi-mobile-apps::before {
-    content:"\E6E3";
+    content: "\E6E3";
 }
 
 .udi-play-circle::before {
-    content:"\F144";
+    content: "\F144";
 }
 
 .udi-search::before {
-    content:"\F002";
+    content: "\F002";
 }
 
 .udi-star::before {
-    content:"\F005";
+    content: "\F005";
 }
 
 .udi-user::before {
-    content:"\F009";
+    content: "\F009";
 }
 
 .udi-video-design::before {
-    content:"\E71C";
+    content: "\E71C";
 }
 
 .udi-what-lifetime::before {
-    content:"\E759";
+    content: "\E759";
+}
+
+.udi-stress-management::before {
+    content: "\E714";
 }
 
 .udi-medium {
